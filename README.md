@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">🚀 Selmen Selmi</h1>
+<h2 align="center">🔥 Aspiring Laravel Backend Developer</h2>
+<p align="center">
+  💻 API Builder • Laravel/Vue/React/Next Enthusiast • Future Cloud Engineer
+</p>
 
-<!--
-**SelmenSelmi/SelmenSelmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🛠️ Tech Stack </h3>
 
-Here are some ideas to get you started:
+Backend: Laravel 12, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: Vue.js (Quasar), React, Next.js
+
+Mobile: Flutter
+
+DevOps & Tools: Docker, Laravel Sail, MySQL, Ansible
+
+AI: PyTorch, Grok API (TripTip project)
+
+<h3>🌱 What I’m Learning Now </h3>
+
+Advanced Laravel backend patterns
+
+API design & authentication (JWT, Sanctum, Social Login)
+
+Scalable architectures & cloud deployment
+
+<h3> 📌 Current Projects </h3>
+
+TripTip — AI-powered travel recommendation app (Laravel + Vue.js + Flutter)
+
+Building production-ready APIs & dashboards
+
+<h3> 🎯 Goals for 2026 </h3>
+
+Become a strong Laravel backend engineer
+
+Master full-stack workflows with Vue.js + Laravel
+
+Build real-world apps and contribute to open source
